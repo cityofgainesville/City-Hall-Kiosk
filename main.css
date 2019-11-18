@@ -288,7 +288,7 @@ iframe{
 }
 
 #alert-home {
-	padding: 1% 2%;
+	//padding: 1% 2%;
 	//background-color: #FEE685;
 	font-weight: 400;
 	font-size: 100%;
@@ -296,7 +296,7 @@ iframe{
 
 #logo-strip-home {
 	width: 100%;
-	padding: 1% 2%;
+	padding: 2% 2%;
 }
 
 #service-survey-button {
